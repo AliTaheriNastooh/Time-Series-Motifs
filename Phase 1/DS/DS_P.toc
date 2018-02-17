@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}time series and time series motifs}{2}
+\contentsline {section}{\numberline {2}difference between match and trivial match in a time series}{3}
+\contentsline {section}{\numberline {3}subsequence motif in a time series}{3}
+\contentsline {section}{\numberline {4}datasets for time series}{5}
+\contentsline {section}{\numberline {5}algorithm to detect time series motifs}{6}
+\contentsline {section}{\numberline {6}program’s output for a data}{8}
+\contentsline {section}{\numberline {7}How much time it takes for algorithm to find motifs?}{10}

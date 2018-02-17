@@ -1,0 +1,4 @@
+Data of: 7
+Build time: 951 microSecond
+Find time: 5 microSecond
+Ans: 1
